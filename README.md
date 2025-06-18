@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Samuel 👋
 
-<!--
-**clydr0/clydr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an aspiring data engineer, currently working as an intern at Cognizant  
+🔭 Working on: Internship projects + side projects  
+🌱 Interests: Clean code, backend systems, data pipelines, game audio tech 🎧  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Python, Datastage, SQL, Shell Scripting
+
+---
+
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-varghese-95495822a/)
