@@ -22,7 +22,7 @@
   > Prevents sleepy driving. Might not prevent sleepy coding.  
 
 - 📚 **Adaptive E-Learning with Emotion Detection + Emoji Visualization**  
-  > An app that helps Teachers engage more with students in online setting by analyzing their emotions and reacts. Like a psychic... but more judgmental.  
+  > An app that helps Teachers engage more with Students in an online setting by analyzing their emotions and reacts. Like a psychic... but more judgmental.  
 
 ---
 
